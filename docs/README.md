@@ -41,4 +41,3 @@ $ EverPhotoCheckin -mobile YOUR_MOBILE -password YOUR_PASSWORD
 <div align="center">
 	<img src="imgs/wechat_reward.png" alt="微信赞赏码" width= "320px" />
 </div>
-
